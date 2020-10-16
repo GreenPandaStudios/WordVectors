@@ -1,7 +1,9 @@
 # WordVectors
 Implementation of the Word2Vec machine learning model to match any input to a set of valid commands
 
+This requires a space seperated text file of a word followed by a uniform dimension of vector elements
 
+#HOW TO USE
 Open the WordVectors.sln file
 
 Navigate to the "Program" class, and change the directory in the VectorDictionary consturctor to the location of the glove.6B.300d.txt file
