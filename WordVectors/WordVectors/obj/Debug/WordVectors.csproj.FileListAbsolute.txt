@@ -1,0 +1,7 @@
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\bin\Debug\WordVectors.pdb
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\obj\Debug\WordVectors.csprojAssemblyReference.cache
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\obj\Debug\WordVectors.csproj.CoreCompileInputs.cache
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\obj\Debug\WordVectors.pdb
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\bin\Debug\WordVectors.dll.config
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\bin\Debug\WordVectors.dll
+E:\Green Panda Studios\TMMO\WordVectors\WordVectors\obj\Debug\WordVectors.dll
